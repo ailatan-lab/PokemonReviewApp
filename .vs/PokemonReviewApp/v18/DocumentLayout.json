@@ -162,7 +162,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
@@ -174,8 +174,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Repository\\ReviewerRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.735Z"
             },
             {
               "$type": "Document",
@@ -200,8 +199,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Interfaces\\IReviewerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.744Z"
             },
             {
               "$type": "Document",
@@ -213,8 +211,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Controllers\\ReviewController.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.739Z"
             },
             {
               "$type": "Document",
@@ -226,8 +223,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Repository\\ReviewRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.736Z"
             },
             {
               "$type": "Document",
@@ -239,8 +235,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Repository\\PokemonRepository.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAIAzwEgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.733Z"
             },
             {
               "$type": "Document",
@@ -252,8 +247,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Controllers\\PokemonController.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAuwJMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.738Z"
             },
             {
               "$type": "Document",
@@ -265,8 +259,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Interfaces\\IReviewRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.762Z"
             },
             {
               "$type": "Document",
@@ -278,8 +271,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Interfaces\\IPokemonRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.721Z"
             },
             {
               "$type": "Document",
@@ -291,8 +283,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Repository\\OwnerRepository.cs",
               "ViewState": "AgIAACsAAAAAAAAAAIAzwDUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.675Z"
             },
             {
               "$type": "Document",
@@ -304,8 +295,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Interfaces\\IOwnerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.719Z"
             },
             {
               "$type": "Document",
@@ -317,8 +307,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Controllers\\OwnerController.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAswJUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.644Z"
             },
             {
               "$type": "Document",
@@ -330,8 +319,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Repository\\CountryRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAEwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.723Z"
             },
             {
               "$type": "Document",
@@ -343,8 +331,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Controllers\\CountryController.cs",
               "ViewState": "AgIAAHoAAAAAAAAAAAAAAIAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.673Z"
             },
             {
               "$type": "Document",
@@ -356,8 +343,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAHgAAAAAAAAAAAAqwEQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.713Z"
             },
             {
               "$type": "Document",
@@ -369,8 +355,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Repository\\CategoryRepository.cs",
               "ViewState": "AgIAACMAAAAAAAAAAIAzwC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.725Z"
             },
             {
               "$type": "Document",
@@ -382,8 +367,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Interfaces\\ICountryRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.722Z"
             },
             {
               "$type": "Document",
@@ -395,8 +379,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Dto\\ReviewDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.716Z"
             },
             {
               "$type": "Document",
@@ -408,8 +391,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.726Z"
             },
             {
               "$type": "Document",
@@ -421,8 +403,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Helper\\MappingProfiles.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.715Z"
             },
             {
               "$type": "Document",
@@ -434,8 +415,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.727Z"
             },
             {
               "$type": "Document",
@@ -447,8 +427,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Models\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.754Z"
             },
             {
               "$type": "Document",
@@ -460,8 +439,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Models\\Reviewer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.752Z"
             },
             {
               "$type": "Document",
@@ -473,8 +451,7 @@
               "RelativeToolTip": "PokemonReviewApp\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T12:10:46.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-16T12:10:46.732Z"
             },
             {
               "$type": "Document",
